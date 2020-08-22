@@ -1,0 +1,295 @@
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll.config
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.pdb
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.exe
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.exe.config
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.rsp
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.exe
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.exe.config
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.rsp
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.AppContext.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Console.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Net.Http.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.exe
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.exe.config
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.rsp
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csprojAssemblyReference.cache
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CopyComplete
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.dll
+C:\Users\Jose\Pictures\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.pdb
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.pdb
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.exe
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.exe.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.rsp
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.exe
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.exe.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.rsp
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.AppContext.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Console.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Net.Http.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.exe
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.exe.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.rsp
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CopyComplete
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.pdb
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll.config
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.pdb
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.exe
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.exe.config
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.rsp
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.exe
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.exe.config
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.rsp
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.AppContext.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Console.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Net.Http.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.exe
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.exe.config
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.rsp
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csprojAssemblyReference.cache
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CoreCompileInputs.cache
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CopyComplete
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.dll
+C:\Users\Sofia Cristina\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.pdb
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll.config
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Tourist Systems web proyect.pdb
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CopyComplete
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.dll
+C:\Users\Dell\Desktop\Tourist Systems web proyect\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.pdb
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\Tourist Systems web proyect.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\Tourist Systems web proyect.pdb
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\csc.exe
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\csc.exe.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\csc.rsp
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\csi.exe
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\csi.exe.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\csi.rsp
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.AppContext.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Console.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Net.Http.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\vbc.exe
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\vbc.exe.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\vbc.rsp
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.csproj.CopyComplete
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.dll
+C:\Users\Jose\Desktop\Tourist Systems web proyect-\Tourist Systems web proyect\obj\Debug\Tourist Systems web proyect.pdb
